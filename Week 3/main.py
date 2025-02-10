@@ -51,7 +51,7 @@ high_achievers = student_records[
 print("Students scoring above 85 in all subjects:")
 print(high_achievers)
 
-# Task 5
+# Task 5 
 print("-------------TASK 5-------------")
 grades_path = 'D:\\Work\\Code\\AI\\student_grades.xlsx'
 if not os.path.exists(grades_path):
